@@ -81,16 +81,3 @@ Suggestions for improvements:
 
 - The original README in the repo contains a note about adding "Infinity Scroll". If you'd like, I can add an implementation plan and issues for adding infinite scrolling (I can draft the issue(s) for you).
 - If you want me to extract a screenshot from a running build or generate a sample screenshot using a headless browser, tell me and I can automate that and update the README with the real screenshot path.
-
-## License
-
-Add your preferred license here (e.g., MIT). If you want, I can add an MIT license file.
-
----
-
-If you want, I can:
-- Commit this README to the repository for you.
-- Replace the placeholder screenshots with actual screenshots (I can run the app locally or render a screenshot if you want).
-- Create issues for TODOs like infinite scroll and tests.
-
-Tell me which of the above you want next and I'll proceed.
