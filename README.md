@@ -1,6 +1,6 @@
-# PplFinder
+# people-finder App
 
-PplFinder is a small React app that displays a list of people and lets you mark favorites. It was built with Create React App and uses a custom hook to fetch people data, a simple favorites view, and styled-components for styling.
+people-finder is a small React app that displays a list of people and lets you mark favorites. It was built with Create React App and uses a custom hook to fetch people data, a simple favorites view, and styled-components for styling.
 
 > Project in the repo: galshir/people-finder
 
